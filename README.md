@@ -1,10 +1,19 @@
-Building open source tools for LLM research and development at [Oqura](https://github.com/Oqura-ai).
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img src="assets/header-light.svg" width="100%" alt="Swadhin Biswal. I have no idea what I'm doing, but the benchmarks look good.">
+</picture>
 
-**Currently working on**
-- [kanon-labs](https://github.com/swadhin505/kanon-labs): CI regression testing for AI agents, using deterministic simulated backends
-- [claude-dashboard](https://github.com/swadhin505/claude-dashboard): local-first Claude Code usage and cost analytics
+<samp>building open source tools for LLM research at <a href="https://github.com/Oqura-ai">oqura</a></samp>
 
-**Selected work**
-- [deepdoc](https://github.com/Oqura-ai/deepdoc): deep research over your local files
-- [optim-jev](https://github.com/Oqura-ai/optim-jev): Jev-based decision tools for Claude Code and Codex
-- [local-datagen-cli](https://github.com/Oqura-ai/local-datagen-cli): synthetic datasets from local files for LLM fine-tuning
+<br>
+
+| <samp>now</samp> | |
+|:--|:--|
+| [**kanon-labs**](https://github.com/swadhin505/kanon-labs) | CI regression testing for AI agents |
+| [**claude-dashboard**](https://github.com/swadhin505/claude-dashboard) | Local-first Claude Code usage and cost analytics |
+
+| <samp>shipped</samp> | |
+|:--|:--|
+| [**deepdoc**](https://github.com/Oqura-ai/deepdoc) | Deep research over your local files |
+| [**optim-jev**](https://github.com/Oqura-ai/optim-jev) | Jev-based decision tools for Claude Code and Codex |
+| [**local-datagen-cli**](https://github.com/Oqura-ai/local-datagen-cli) | Synthetic datasets from local files for LLM fine-tuning |
