@@ -3,7 +3,7 @@
   <img src="assets/header-light.svg" width="100%" alt="Works on my benchmark.">
 </picture>
 
-<samp>building at <a href="https://github.com/Oqura-ai">oqura</a></samp>
+<samp>building <a href="https://github.com/Oqura-ai">oqura</a></samp>
 
 <br>
 
