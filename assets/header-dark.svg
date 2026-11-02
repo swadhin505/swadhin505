@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" role="img" aria-label="Swadhin Biswal. I have no idea what I'm doing, but the benchmarks look good.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" role="img" aria-label="Open source tools for LLM research.">
   <style>
     .name { font: 500 46px Georgia, 'Times New Roman', serif; fill: #f0f6fc; letter-spacing: -.5px; }
     .line { font: 400 15px ui-monospace, SFMono-Regular, Consolas, Menlo, monospace; fill: #9198a1; }
@@ -7,9 +7,8 @@
     .curve { fill: none; stroke: #3fb950; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
     .dot { fill: #3fb950; }
   </style>
-  <text class="name" x="4" y="118">Swadhin Biswal</text>
-  <text class="line" x="6" y="156">I have no idea what I'm doing,</text>
-  <text class="line" x="6" y="180">but the benchmarks look good.</text>
+  <text class="name" x="4" y="118">Open source tools</text>
+  <text class="name" x="4" y="174">for LLM research.</text>
   <line class="axis" x1="560" y1="40" x2="560" y2="210"/>
   <line class="axis" x1="560" y1="210" x2="890" y2="210"/>
   <path class="curve" d="M562 52 C590 60 596 118 622 120 S650 100 668 146 S706 168 726 164 S770 186 800 184 S850 192 880 191"/>
