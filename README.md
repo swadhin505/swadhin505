@@ -1,9 +1,9 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" width="100%" alt="Swadhin Biswal. I have no idea what I'm doing, but the benchmarks look good.">
+  <img src="assets/header-light.svg" width="100%" alt="Open source tools for LLM research.">
 </picture>
 
-<samp>building open source tools for LLM research at <a href="https://github.com/Oqura-ai">oqura</a></samp>
+<samp>building at <a href="https://github.com/Oqura-ai">oqura</a></samp>
 
 <br>
 
